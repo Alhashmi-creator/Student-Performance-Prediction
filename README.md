@@ -1,5 +1,4 @@
-# 🎓 Student Performance Prediction (Machine Learning)
-
+# 🎓 Student Performance Prediction
 This project demonstrates a simple machine learning approach to predict factors that influence student grades using a dataset stored in a CSV file.
 
 ## 📊 Project Overview
